@@ -1,7 +1,7 @@
 {  
-  "short_name": "Pogo Map",  
-  "name": "Pogo Map",  
-  "start_url": "./",  
+  "short_name": "PoGo Map",  
+  "name": "PoGo Map",  
+  "start_url": "/",  
   "icons": [  
 
     {  
