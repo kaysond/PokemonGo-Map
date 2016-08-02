@@ -123,4 +123,4 @@ if __name__ == '__main__':
         while search_thread.is_alive():
             time.sleep(60)
     else:
-        app.run(threaded=True, use_reloader=False, debug=args.debug, host=args.host, port=args.port)
+        #app.run(threaded=True, use_reloader=False, debug=args.debug, host=args.host, port=args.port)
